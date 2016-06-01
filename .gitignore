@@ -1,0 +1,9 @@
+archive/*
+demos/*
+screenshots/*
+access.txt
+qzconfig.cfg
+repconfig.cfg
+*.dll
+*.log
+*.pid
